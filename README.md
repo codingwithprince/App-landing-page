@@ -1,2 +1,1 @@
-# app-landing-page
-Shala app landing page 
+# App-Landing-page
